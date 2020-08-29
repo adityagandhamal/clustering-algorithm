@@ -23,3 +23,7 @@ I have applied the Elbow Method to find out the optimum value for n_clusters and
 Elbow Method to determine the optimum value for n_clusters
 ![Screenshot (8)](https://user-images.githubusercontent.com/61016383/91636867-a158e780-ea21-11ea-9589-678f1436dbcc.png)
   
+# Libraries Used
+- SciKit Learn
+- Numpy
+- Matplotlib
