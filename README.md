@@ -13,7 +13,7 @@ I have trained the model(KMeans) with the data and have plotted the predictions 
 ![Screenshot (9)](https://user-images.githubusercontent.com/61016383/91636819-1aa40a80-ea21-11ea-85a7-cd77c3a967f8.png)
 
 
-## Plot depicting the predictions on the same data.
+## Plot depicting the predictions on the same data using K-Means Clustering Algorithm.
 ![Screenshot (6)](https://user-images.githubusercontent.com/61016383/91636789-e3355e00-ea20-11ea-9e8e-720247ecc099.png)
   
 
